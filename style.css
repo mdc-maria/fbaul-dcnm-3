@@ -450,7 +450,7 @@ body{
 #container-29{
     background-color: black;
     width: 50vh ;
-    line-height: 130%;
+    line-height: 140%;
     padding-left: 3vh;
     font-family: 'NHaas-Light';
     padding-bottom: 2vh;
@@ -460,7 +460,8 @@ body{
     margin-left:15vh ;   
 }
 
-p{margin: 0;}
+#tx-00 {
+    margin: 0vh;}
 
 /* KEYWORDS*/
 
