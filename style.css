@@ -65,19 +65,19 @@ body{
     margin: 0;
     color: white;
     text-transform: uppercase;
-    font-size: 30px;
+    font-size: 28px;
 }
 
 .text-1 {
     font-family: 'NHaas-Roman';
-    font-size: 24px;
+    font-size: 28px;
     box-sizing: border-box;  
     color: white;  
 }
 
 .text-2 {
     font-family: 'NHaas-Medium';
-    font-size: 22px;
+    font-size: 27px;
     box-sizing: border-box;  
     text-transform: uppercase;
     color: white;  
@@ -227,7 +227,7 @@ body{
 #container-5{
     background-color: black;
     margin: 0;
-    width: 83vh;
+    width: 96vh;
     padding-left: 18vh;
     padding-top: 1vh;
     padding-bottom:1vh;
@@ -236,7 +236,7 @@ body{
 #container-6{
     background-color: black;
     margin: 0;
-    width: 75vh;
+    width: 89vh;
     padding-left: 18vh;
     padding-top: 1vh;
     padding-bottom:1vh;
@@ -254,7 +254,7 @@ body{
     margin-left: 25vh;
     margin-top: 0;
     margin-bottom: 0;
-    width: 59vh;
+    width: 70vh;
     padding-left: 2vh;
     padding-top: 1vh;
     padding-bottom:1vh;
@@ -265,7 +265,7 @@ body{
     margin-left: 25vh;
     margin-top: 0;
     margin-bottom: 0;
-    width: 70vh;
+    width: 85vh;
     padding-left: 2vh;
     padding-top: 1vh;
     padding-bottom:1vh;
@@ -276,7 +276,7 @@ body{
     margin-left: 25vh;
     margin-top: 0;
     margin-bottom: 0;
-    width: 40vh;
+    width: 45vh;
     padding-left: 2vh;
     padding-top: 1vh;
     padding-bottom:1vh;
@@ -292,7 +292,7 @@ body{
 #container-12{
     background-color: black;
     margin: 0;
-    width: 72vh;
+    width: 87vh;
     padding-left: 18vh;
     padding-top: 1vh;
     padding-bottom:1vh;
@@ -301,7 +301,7 @@ body{
 #container-13{
     background-color: black;
     margin: 0;
-    width: 88vh;
+    width: 105vh;
     padding-left: 18vh;
     padding-top: 1vh;
     padding-bottom:1vh;
@@ -310,7 +310,7 @@ body{
 #container-14{
     background-color: black;
     margin: 0;
-    width: 65vh;
+    width: 75vh;
     padding-left: 18vh;
     padding-top: 1vh;
     padding-bottom:1vh;
@@ -449,7 +449,7 @@ body{
 
 #container-29{
     background-color: black;
-    width: 50vh ;
+    width: 54vh ;
     line-height: 140%;
     padding-left: 3vh;
     font-family: 'NHaas-Light';
@@ -591,8 +591,8 @@ body{
         width: 100%;
     }
    
-    .title1, .title2 {
-      font-size: 22px;
+    .title1, .title2,  .text-1, .text-2 {
+      font-size: 20px;
     }
 
     #title-1, #title-2, #title-3, #title-4, #container-1, #container-2, #container-3, #container-4, #container-7, #container-11, #container-15, #container-16, #container-19, #container-20, #container-26, #container-27, #container-28 {
@@ -609,10 +609,6 @@ body{
 
     #container-8, #container-9, #container-10 {
         margin-left: 15vh;
-    }
-
-    .text-1, .text-2 {
-        font-size: 18px;
     }
 
     .text-3,.text-4, .text-3-italic, #keywords{
